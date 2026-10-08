@@ -45,9 +45,8 @@ function Resume() {
               </p>
 
               <p>
-                Looking for an opportunity to work on real-world
-                software projects, contribute to a development team,
-                and grow as a professional software developer.
+               Looking for an opportunity to work on real-world software projects, contribute to a development team, and grow as a professional MERN Stack Developer. I am particularly interested in building scalable and user-friendly web applications using React.js, Node.js, Express.js, and MongoDB.
+
               </p>
             </div>
           </div>
