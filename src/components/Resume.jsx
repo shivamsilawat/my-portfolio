@@ -17,7 +17,7 @@ function Resume() {
             <h3>Education</h3>
 
             <div className="resume-card">
-              <span className="resume-year">2022 - Present</span>
+              <span className="resume-year">2022 - 2026</span>
 
               <h4>B.Tech - Computer Science Engineering</h4>
 
@@ -26,9 +26,8 @@ function Resume() {
               </p>
 
               <p>
-                Currently pursuing my Bachelor's degree in Computer
-                Science Engineering with a focus on software development,
-                web technologies and programming fundamentals.
+               I am a Computer Science Engineering graduate with a strong interest in software development, web technologies, and programming. I have hands-on experience building web applications using modern technologies and am looking for an opportunity to apply my skills, learn from experienced teams, and grow as a software developer.
+
               </p>
             </div>
           </div>
